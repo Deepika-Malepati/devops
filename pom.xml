@@ -15,7 +15,8 @@
 <description>Automation Suite</description>
 
 
-+<properties>
+<properties>
+  <java.version>11</java.version>
 
 
 -<repositories>
